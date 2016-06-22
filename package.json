@@ -1,0 +1,16 @@
+{
+  "name": "generator-dotnet",
+  "version": "1.0.0",
+  "description": "generator-dotnet",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedihashimi/generator-dotnet.git"
+  },
+  "author": "Sayed Ibrahim Hashimi <sayed.hashimi@gmail.com>",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/sayedihashimi/generator-dotnet/issues"
+  },
+  "homepage": "https://github.com/sayedihashimi/generator-dotnet#readme"
+}
